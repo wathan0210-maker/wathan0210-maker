@@ -71,7 +71,7 @@ Si c'est votre cas, je serais ravi d'échanger ! 📬
 ## 📫 Me contacter
  
 <p>
-  <a href="mailto:wathan0210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:wathan0210@gmail.com"><img src="https://img.shields.io/badge/wathan0210%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1a1b27&height=100&section=footer" />
