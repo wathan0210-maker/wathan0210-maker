@@ -19,7 +19,7 @@ J'aime coder et plus particulièrement faire du design ! J'adore tout ce qui est
 
 ---
 
-## ✅ Projets terminés
+## 🦾 Projets réalisés
 
 - **🌌 [Stargate, tableau de bord](https://github.com/wathan0210-maker/Winform-Data-Stargate)** · *C#, WinForms* 
 
@@ -33,13 +33,13 @@ Une adaptation du jeu de cartes Inscryption en binôme, avec les sacrifices, les
 
 Un projet réseau autour du protocole Spanning Tree.
 
-## 🛠️ Projet en cours
+## 🛠️ Projets en cours
 
 - **🃏 [CardLess](https://github.com/wathan0210-maker/Cardless)** · *Projet personnel, Godot, GDScript*
 
 Un jeu de cartes que j'ai inventé moi-même, où le but est de vider la main de l'adversaire. J'ai écrit toutes les règles (zones Angéliques et Maléfiques, une Bank partagée entre les joueurs, un ordre de priorité pour les effets, une vingtaine de cartes) et je le prototype maintenant sous Godot.
 
-- **🎭 [Jeu sérieux sur les streameurs politiques](https://github.com/wathan0210-maker/T3---Jeu-s-rieux-sur-le-th-me-des-streamers-politiques)** · *Projet en trinôme, Godot, GDScript* 
+- **🧑‍💻​ [Jeu sérieux sur les streameurs politiques](https://github.com/wathan0210-maker/T3---Jeu-s-rieux-sur-le-th-me-des-streamers-politiques)** · *Projet en trinôme, Godot, GDScript* 
 
 Un visual novel sur les streamers politiques, dans l'esprit d'Ace Attorney et de Danganronpa. Le joueur enquête pour rassembler des preuves, puis affronte des personnalités politiques en débat en leur opposant des faits vérifiés.
 
